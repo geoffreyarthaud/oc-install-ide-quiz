@@ -1,2 +1,2 @@
-# oc-install-ide-quiz
-Dépôt pour le quiz du cours OpenClassrooms "Installez votre environnement de développement Java avec Eclipse".
+# Quiz n° 3 du cours OpenClassrooms d'installation de Eclipse pour Java
+Dépôt pour le quiz du cours OpenClassrooms "Installez votre environnement de développement Java avec Eclipse". Il contient des erreurs de syntaxe et des bugs. Bon courage...
