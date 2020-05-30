@@ -7,12 +7,13 @@ import java.nio.file.Path;
 import org.apache.commons.codec.binary.Base64;
 
 import ij.IJ;
+import ij.ImagePlus;
 
 public class QuizExample {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 		final int compteARebours = 5;
-		System.out.println("Compte à rebours !")
+		System.out.println("Compte à rebours !");
 		for (int i = compteARebours; i <= compteARebours; i--) {
 			System.out.println("--> " + i);
 			Thread.sleep(1000);
